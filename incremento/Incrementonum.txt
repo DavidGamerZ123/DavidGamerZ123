@@ -1,0 +1,10 @@
+public class incrementonum{
+  public static void main(Sting arg[]){
+  
+   int i = 1;
+   while(i < 10){
+    System.out.print(i + ", ");
+    i+=2
+  }
+ }
+}
