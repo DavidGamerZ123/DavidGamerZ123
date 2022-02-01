@@ -1,5 +1,5 @@
 import javax.swing.*;
-
+import java.JFrame.*;
 import java.awt.event.*;
 
 public class Prueba1 extends JFrame implements ActionListener{
