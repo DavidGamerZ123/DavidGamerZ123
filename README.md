@@ -2,35 +2,40 @@
      ║                David Banda — GitHub Profile README                ║
      ╚═══════════════════════════════════════════════════════════════════╝ -->
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=David%20Banda&fontSize=60&fontAlignY=38&fontColor=ffffff&desc=Sysadmin%20%26%20Backend%20Dev%20%40WDreams&descSize=20&descAlignY=60&animation=fadeIn" alt="banner" />
-</p>
+<h1 align="center">👋 ¡Hola! Soy David Banda</h1>
 
-<!-- Typing animation -->
+<h3 align="center">Sysadmin &amp; Backend Dev <span>@Webdreams</span> ❤️</h3>
+
+<!-- Typing animation (funciona) -->
 <p align="center">
   <a href="https://github.com/DavidGamerZ123">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&color=6C63FF&center=true&vCenter=true&width=620&lines=Sysadmin+%26+Backend+Developer;Automation+Engineer+(n8n+%E2%80%A2+Make+%E2%80%A2+Zapier);Multi-provider+AI+Integrator;Building+B2B+SaaS+at+WDreams" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&color=6C63FF&center=true&vCenter=true&width=640&lines=Sysadmin+%26+Backend+Developer;Automation+Engineer+(n8n+%E2%80%A2+Make+%E2%80%A2+Zapier);Multi-provider+AI+Integrator;Building+B2B+SaaS+platforms" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Quick stat row -->
 <p align="center">
   <img src="https://img.shields.io/badge/-Espa%C3%B1a-FF6B6B?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/-%40WDreams-1a1b2e?style=flat-square&logo=githubsponsors&logoColor=white" />
+  <img src="https://img.shields.io/badge/-%E2%9D%A4%EF%B8%8F%20%40Webdreams-1a1b2e?style=flat-square" />
   <img src="https://img.shields.io/badge/-Available%20for%20projects-4ade80?style=flat-square&logo=protonmail&logoColor=white" />
-  <a href="mailto:sistemas@wdreams.com">
-    <img src="https://img.shields.io/badge/-sistemas%40wdreams.com-6c63ff?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:davidbanda1914@gmail.com">
+    <img src="https://img.shields.io/badge/-davidbanda1914%40gmail.com-6c63ff?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<!-- Profile views counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DavidGamerZ123&style=flat-square&color=6C63FF&label=Profile+views" />
+  <img src="https://img.shields.io/github/followers/DavidGamerZ123?style=flat-square&color=6C63FF&logo=github&label=Followers" />
 </p>
 
 ---
 
 ## 🎯 Sobre mí
 
-Trabajo como **sysadmin y desarrollador backend en [WDreams](https://wdreams.com)**, donde diseño y mantengo el stack interno: dashboards B2B, automatizaciones de correo y CRM, integración multi-proveedor de IA, y despliegues self-hosted en Hetzner. Mi día a día oscila entre programar APIs en **FastAPI / Next.js**, montar flujos de **n8n / Make / Zapier**, escribir consultas a **SQL Server**, y mantener contenedores **Docker** detrás de **Caddy**.
+Trabajo como **sysadmin y desarrollador backend en Webdreams** ❤️, donde diseño y mantengo el stack interno: dashboards B2B, automatizaciones de correo y CRM, integración multi-proveedor de IA, y despliegues self-hosted. Mi día a día oscila entre programar APIs en **FastAPI / Next.js**, montar flujos en **n8n / Make / Zapier**, escribir consultas a **SQL Server**, y mantener contenedores **Docker** detrás de reverse proxy con SSL automático.
 
-> ⚡ **Nivel intermedio** en automatización, integración LLM y administración de sistemas. Aprendo construyendo, no copiando.
+> ⚡ **Nivel intermedio** en automatización low-code, integración LLM y administración de sistemas. Aprendo construyendo, no copiando.
 
 ---
 
@@ -54,20 +59,19 @@ Trabajo como **sysadmin y desarrollador backend en [WDreams](https://wdreams.com
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/-Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![n8n-MCP](https://img.shields.io/badge/-n8n--MCP-1a1b2e?style=for-the-badge&logo=anthropic&logoColor=white)
+![Webhooks](https://img.shields.io/badge/-Webhooks-2D3748?style=for-the-badge&logo=webhooks&logoColor=white)
 
-#### 🤖 IA & LLMs
+#### 🤖 IA &amp; LLMs
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/-Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Mistral](https://img.shields.io/badge/-Mistral-FA520F?style=for-the-badge&logo=mistralai&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
-#### DevOps & Infraestructura
+#### DevOps &amp; Infraestructura
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Caddy](https://img.shields.io/badge/-Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
-![Hetzner](https://img.shields.io/badge/-Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 #### Bases de datos
@@ -86,26 +90,26 @@ Trabajo como **sysadmin y desarrollador backend en [WDreams](https://wdreams.com
 <tr>
 <td width="50%" valign="top">
 
-### 🟣 WebdreamsDB AI · v2
-Chat SQL multi-tenant con **widgets embebibles**, **2FA TOTP**, RBAC y multi-proveedor IA (OpenAI / Anthropic / Mistral). Validación AST con `sqlglot`, presupuestos por tenant, audit logs encriptados.
+### 🟣 Multi-tenant SQL Chat Platform v2
+Plataforma de **chat SQL multi-tenant** con widgets embebibles, 2FA TOTP, RBAC y multi-proveedor IA (OpenAI / Anthropic / Mistral). Validación AST con `sqlglot`, presupuestos mensuales por tenant, audit logs encriptados con Fernet.
 
-`FastAPI` · `React` · `SQLite` · `sqlglot` · `Fernet`
+`FastAPI` · `React` · `SQLite` · `sqlglot` · `Fernet` · `JWT`
 
 </td>
 <td width="50%" valign="top">
 
-### 🟢 WDreams Leads Search
-Dashboard **B2B de generación de leads**. Despliegue Hetzner-ready con Docker Compose, Caddy SSL automático, integración con SQL Server de oficina y enriquecimiento vía n8n.
+### 🟢 B2B Leads Search Dashboard
+**Dashboard de generación de leads B2B** con scoring por IA. Despliegue self-hosted con Docker Compose y reverse proxy con SSL automático. Integración con SQL Server corporativo y enriquecimiento vía workflows.
 
-`Next.js` · `Prisma` · `n8n` · `Docker` · `Caddy`
+`Next.js` · `Prisma` · `Docker` · `Redis` · `Workflows`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🟠 SysAdmin Dashboard
-App de escritorio para sysadmin y seguridad. **Análisis IA con Mistral**, centro unificado de consultas con caché TTL, heurística anti-comandos peligrosos, paleta de comandos.
+### 🟠 Cyber Audit Dashboard
+App de escritorio para sysadmin y seguridad. **Análisis IA con Mistral**, centro unificado de consultas con caché TTL, heurística anti-comandos peligrosos, paleta de comandos y atajos globales.
 
 `PyQt` · `Mistral` · `Python` · `Click-to-copy`
 
@@ -113,7 +117,7 @@ App de escritorio para sysadmin y seguridad. **Análisis IA con Mistral**, centr
 <td width="50%" valign="top">
 
 ### ⏻ ApagarPC
-Utilidad de escritorio Windows para **programar el apagado** con animación circular en Tkinter. Cero dependencias. Cancelación segura vía `shutdown /a`.
+Utilidad de escritorio Windows para **programar el apagado** con animación circular en Tkinter. Cero dependencias externas. Cancelación segura vía `shutdown /a`.
 
 `Python` · `Tkinter` · `Zero deps`
 
@@ -123,17 +127,17 @@ Utilidad de escritorio Windows para **programar el apagado** con animación circ
 
 ---
 
-## 🤖 Automatizaciones en producción (n8n)
+## 🤖 Automatizaciones que he construido
 
-Flujos reales que ejecuto en `n8n.wdreams.com`. Todos integran SQL Server, IMAP/SMTP corporativo y APIs propias.
+Flujos en producción que integran correo corporativo (IMAP/SMTP), SQL Server, webhooks y APIs propias. Self-hosted, sin dependencia de SaaS externos.
 
 | Workflow | Trigger | Stack | Función |
 |---|---|---|---|
-| **DESPLIEGUES v2 — Captura email a BD** | `IMAP` | `Code` · `SQL Server` · `Switch` | Lee correos entrantes, los normaliza con código y los persiste en BD con ramificación por tipo. |
-| **DESPLIEGUES v2 — Informe mensual** | `Schedule (cron)` | `SQL Server` · `Code` · `SMTP` | Genera informe mensual desde BD, lo formatea y lo envía por email automáticamente. |
-| **WDreams — Campaign Orchestrator** | `Schedule` | `HTTP` · `SMTP` · `If` · `SplitOut` | Orquesta campañas B2B: trocea audiencia, dispara HTTP a la app, envía emails con lógica condicional. |
-| **WDreams — Inbound Reply Handler** | `IMAP` | `HTTP` · `If` · `Code` | Procesa respuestas entrantes de campañas, las clasifica y notifica al sistema vía HTTP. |
-| **WDreams — Send Outreach Email** | `Webhook` | `SMTP` · `HTTP` · `If` · `RespondToWebhook` | Endpoint webhook que el dashboard llama para enviar emails de outreach con validación. |
+| **Email → Database Ingestor** | `IMAP` | `Code` · `SQL Server` · `Switch` | Lee correos entrantes, los normaliza y los persiste en BD con ramificación por tipo de remitente. |
+| **Monthly Report Generator** | `Schedule (cron)` | `SQL Server` · `Code` · `SMTP` | Cada mes consulta la BD, compone el informe en HTML y lo envía por email automáticamente. |
+| **B2B Campaign Orchestrator** | `Schedule` | `HTTP` · `SMTP` · `If` · `SplitOut` | Orquesta campañas B2B: trocea audiencia, dispara HTTP a la app interna, envía emails con lógica condicional. |
+| **Inbound Reply Classifier** | `IMAP` | `HTTP` · `If` · `Code` | Procesa respuestas entrantes de campañas, las clasifica por intención y notifica al sistema vía HTTP. |
+| **Outreach Webhook** | `Webhook` | `SMTP` · `HTTP` · `If` · `RespondToWebhook` | Endpoint webhook que el dashboard llama para disparar emails de outreach con validación previa. |
 
 ---
 
@@ -141,9 +145,9 @@ Flujos reales que ejecuto en `n8n.wdreams.com`. Todos integran SQL Server, IMAP/
 
 - 🎯 **Automatización low-code/no-code** — n8n self-hosted, Make scenarios, Zapier multi-step
 - 🧠 **Integración LLM multi-proveedor** — OpenAI, Anthropic Claude, Mistral, function calling
-- 🐳 **DevOps self-hosted** — Docker Compose, reverse proxy con Caddy, despliegue en Hetzner
-- 🔐 **Seguridad práctica** — Fernet encryption, 2FA TOTP, RBAC, audit logging
-- 🗄️ **SQL y modelado** — SQL Server, PostgreSQL, Prisma ORM, validación AST con `sqlglot`
+- 🐳 **DevOps self-hosted** — Docker Compose, reverse proxy con SSL automático, despliegue en infra propia
+- 🔐 **Seguridad práctica** — Fernet encryption, 2FA TOTP, RBAC, audit logging, validación AST de SQL
+- 🗄️ **SQL y modelado** — SQL Server, PostgreSQL, Prisma ORM, validación con `sqlglot`
 
 > Aprendo en abierto: cada proyecto es una excusa para probar una herramienta nueva en serio.
 
@@ -166,11 +170,8 @@ Flujos reales que ejecuto en `n8n.wdreams.com`. Todos integran SQL Server, IMAP/
 ## 🤝 Contacto
 
 <p align="left">
-  <a href="mailto:sistemas@wdreams.com">
-    <img src="https://img.shields.io/badge/Email-sistemas%40wdreams.com-6C63FF?style=for-the-badge&logo=protonmail&logoColor=white" />
-  </a>
-  <a href="https://wdreams.com">
-    <img src="https://img.shields.io/badge/Web-wdreams.com-1a1b2e?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="mailto:davidbanda1914@gmail.com">
+    <img src="https://img.shields.io/badge/Email-davidbanda1914%40gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -179,10 +180,6 @@ Flujos reales que ejecuto en `n8n.wdreams.com`. Todos integran SQL Server, IMAP/
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" />
-</p>
 
 <p align="center">
   <sub>Perfil mantenido con cuidado · Última revisión: 2026-05-27</sub>
