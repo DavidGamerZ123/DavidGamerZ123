@@ -4,12 +4,13 @@
 
 <h1 align="center"><code>$ whoami</code> — David Jr</h1>
 
-<h3 align="center">Sysadmin &amp; Backend Dev <span>@Webdreams</span> ❤️</h3>
+<h3 align="center">Sysadmin &amp; Infraestructura <span>@Webdreams</span> ❤️</h3>
+<p align="center"><sub><i>+ Seguridad · Monitorización · Automatización · IA · Backend Dev</i></sub></p>
 
 <!-- Typing animation (funciona) -->
 <p align="center">
   <a href="https://github.com/DavidGamerZ123">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&color=6C63FF&center=true&vCenter=true&width=640&lines=Sysadmin+%26+Backend+Developer;Automation+Engineer+(n8n+%E2%80%A2+Make+%E2%80%A2+Zapier);Multi-provider+AI+Integrator;Building+B2B+SaaS+platforms" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&color=6C63FF&center=true&vCenter=true&width=680&lines=Sysadmin+%26+Infrastructure+Engineer;Mail+(Zimbra)+%E2%80%A2+Monitoring+(Grafana+%2F+Zabbix);Servers%2C+Certificates+%26+Hardening;Automation+(n8n+%E2%80%A2+Make+%E2%80%A2+Zapier+%E2%80%A2+Flowise);LLMs%2C+Chatbots+%26+Backend+when+needed" alt="Typing SVG" />
   </a>
 </p>
 
@@ -33,52 +34,87 @@
 
 ## 🎯 Sobre mí
 
-Trabajo como **sysadmin y desarrollador backend en Webdreams** ❤️, donde diseño y mantengo el stack interno: dashboards B2B, automatizaciones de correo y CRM, integración multi-proveedor de IA, y despliegues self-hosted. Mi día a día oscila entre programar APIs en **FastAPI / Next.js**, montar flujos en **n8n / Make / Zapier**, escribir consultas a **SQL Server**, y mantener contenedores **Docker** detrás de reverse proxy con SSL automático.
+Soy **administrador de sistemas e infraestructura** en Webdreams ❤️ — esa es mi base. Levanto y mantengo **servidores Linux/Windows**, gestiono **correo corporativo (Zimbra)** con su SPF/DKIM/DMARC, monitorizo con **Grafana y Zabbix**, emito y renuevo **certificados SSL**, hago **hardening** y respondo a incidentes cuando algo arde. Sobre esa base he ido sumando capas: **automatización low-code** con n8n / Make / Zapier, **chatbots y agentes IA** con Flowise + multi-proveedor LLM, **bases de datos** (SQL Server, PostgreSQL) y **desarrollo backend** en varios lenguajes cuando necesito una herramienta a medida.
 
-> ⚡ **Nivel intermedio** en automatización low-code, integración LLM y administración de sistemas. Aprendo construyendo, no copiando.
+> ⚡ Sysadmin de profesión. Dev por necesidad y curiosidad. **Aprendo construyendo, no copiando.**
 
 ---
 
-## 🚀 Stack tecnológico
+## 🚀 Stack — de la base (sistemas) hacia arriba
 
-#### Lenguajes
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+#### ⭐ Lo que más uso en el día a día
+<p>
+  <img src="https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flowise-7C3AED?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Zabbix-A30013?style=for-the-badge&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Zimbra-0096D6?style=for-the-badge&logo=zimbra&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-#### Backend / Frameworks
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+---
 
-#### ⚙️ Automatización (donde más juego)
+#### 🖥️ Sistemas e Infraestructura · *mi base*
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Caddy](https://img.shields.io/badge/-Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Let's Encrypt](https://img.shields.io/badge/-Let's%20Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![SSH](https://img.shields.io/badge/-SSH-1A1A1A?style=for-the-badge&logo=openssh&logoColor=white)
+
+#### 📧 Servidores de correo
+![Zimbra](https://img.shields.io/badge/-Zimbra-0096D6?style=for-the-badge&logo=zimbra&logoColor=white)
+![Postfix](https://img.shields.io/badge/-IMAP%20%2F%20SMTP-2D3748?style=for-the-badge&logo=protonmail&logoColor=white)
+![SPF](https://img.shields.io/badge/-SPF%20%E2%80%A2%20DKIM%20%E2%80%A2%20DMARC-EA4B71?style=for-the-badge&logo=maildotru&logoColor=white)
+
+#### 📊 Monitorización &amp; Observabilidad
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/-Zabbix-A30013?style=for-the-badge&logo=zabbix&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+#### 🛡️ Seguridad &amp; Hacking ético
+![Kali](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Pentesting](https://img.shields.io/badge/-Pentesting-1a1b2e?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Hardening](https://img.shields.io/badge/-Hardening-7C3AED?style=for-the-badge&logo=shieldsdotio&logoColor=white)
+![2FA TOTP](https://img.shields.io/badge/-2FA%20TOTP-0EA5E9?style=for-the-badge&logo=keepassxc&logoColor=white)
+![Fernet](https://img.shields.io/badge/-Fernet%20%2F%20JWT-D97757?style=for-the-badge&logo=keycdn&logoColor=white)
+
+#### 🗄️ Bases de datos
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+#### ⚙️ Automatización low-code
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/-Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/-Webhooks-2D3748?style=for-the-badge&logo=webhooks&logoColor=white)
 
-#### 🤖 IA &amp; LLMs
+#### 🤖 IA, LLMs &amp; Chatbots
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/-Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Mistral](https://img.shields.io/badge/-Mistral-FA520F?style=for-the-badge&logo=mistralai&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Flowise](https://img.shields.io/badge/-Flowise-7C3AED?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-#### DevOps &amp; Infraestructura
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Caddy](https://img.shields.io/badge/-Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+#### 💻 Desarrollo · *cuando hace falta una herramienta a medida*
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-#### Bases de datos
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
@@ -143,11 +179,13 @@ Flujos en producción que integran correo corporativo (IMAP/SMTP), SQL Server, w
 
 ## 📚 Formación continua
 
-- 🎯 **Automatización low-code/no-code** — n8n self-hosted, Make scenarios, Zapier multi-step
-- 🧠 **Integración LLM multi-proveedor** — OpenAI, Anthropic Claude, Mistral, function calling
-- 🐳 **DevOps self-hosted** — Docker Compose, reverse proxy con SSL automático, despliegue en infra propia
-- 🔐 **Seguridad práctica** — Fernet encryption, 2FA TOTP, RBAC, audit logging, validación AST de SQL
-- 🗄️ **SQL y modelado** — SQL Server, PostgreSQL, Prisma ORM, validación con `sqlglot`
+- 🖥️ **Sistemas e infra self-hosted** — servidores Linux/Windows, Docker Compose, reverse proxy con SSL automático, gestión de certificados
+- 📧 **Correo corporativo** — Zimbra, IMAP/SMTP, SPF/DKIM/DMARC, lucha contra el SPAM
+- 📊 **Monitorización** — dashboards con Grafana, alertas con Zabbix, agregación de logs
+- 🛡️ **Seguridad práctica y hacking ético** — hardening de servidores, pentesting básico, Fernet encryption, 2FA TOTP, RBAC, audit logging
+- ⚙️ **Automatización low-code** — n8n self-hosted, Make scenarios, Zapier multi-step, webhooks
+- 🤖 **IA, LLMs y chatbots** — OpenAI, Anthropic Claude, Mistral, **Flowise** para agentes visuales, function calling
+- 🗄️ **SQL y modelado** — SQL Server, PostgreSQL, validación AST con `sqlglot`, Prisma ORM
 
 > Aprendo en abierto: cada proyecto es una excusa para probar una herramienta nueva en serio.
 
