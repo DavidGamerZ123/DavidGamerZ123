@@ -2,7 +2,7 @@
      ║                David Banda — GitHub Profile README                ║
      ╚═══════════════════════════════════════════════════════════════════╝ -->
 
-<h1 align="center"><code>$ whoami</code> — David Banda</h1>
+<h1 align="center"><code>$ whoami</code> — David Jr</h1>
 
 <h3 align="center">Sysadmin &amp; Backend Dev <span>@Webdreams</span> ❤️</h3>
 
