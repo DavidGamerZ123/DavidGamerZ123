@@ -19,8 +19,8 @@
   <img src="https://img.shields.io/badge/-Espa%C3%B1a-FF6B6B?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/-%E2%9D%A4%EF%B8%8F%20%40Webdreams-1a1b2e?style=flat-square" />
   <img src="https://img.shields.io/badge/-Available%20for%20projects-4ade80?style=flat-square&logo=protonmail&logoColor=white" />
-  <a href="mailto:davidbanda1914@gmail.com">
-    <img src="https://img.shields.io/badge/-davidbanda1914%40gmail.com-6c63ff?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:david.banda.sistemas@gmail.com">
+    <img src="https://img.shields.io/badge/-david.banda.sistemas%40gmail.com-6c63ff?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -195,7 +195,7 @@ Flujos en producción que integran correo corporativo (IMAP/SMTP), SQL Server, w
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DavidGamerZ123&show_icons=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidGamerZ123&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=FA520F&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=DavidGamerZ123&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=FA520F&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" height="180" />
 </p>
 
 <p align="center">
@@ -208,8 +208,8 @@ Flujos en producción que integran correo corporativo (IMAP/SMTP), SQL Server, w
 ## 🤝 Contacto
 
 <p align="left">
-  <a href="mailto:davidbanda1914@gmail.com">
-    <img src="https://img.shields.io/badge/Email-davidbanda1914%40gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:david.banda.sistemas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-david.banda.sistemas%40gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
