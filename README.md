@@ -2,16 +2,9 @@
      ║                David Banda — GitHub Profile README                ║
      ╚═══════════════════════════════════════════════════════════════════╝ -->
 
-<h1 align="center"><code>$ whoami</code> — David Jr</h1>
-
-<h3 align="center">Sysadmin &amp; Infraestructura <span>@Webdreams</span> ❤️</h3>
-<p align="center"><sub><i>+ Seguridad · Monitorización · Automatización · IA · Backend Dev</i></sub></p>
-
-<!-- Typing animation (funciona) -->
 <p align="center">
-  <a href="https://github.com/DavidGamerZ123">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&color=6C63FF&center=true&vCenter=true&width=680&lines=Sysadmin+%26+Infrastructure+Engineer;Mail+(Zimbra)+%E2%80%A2+Monitoring+(Grafana+%2F+Zabbix);Servers%2C+Certificates+%26+Hardening;Automation+(n8n+%E2%80%A2+Make+%E2%80%A2+Zapier+%E2%80%A2+Flowise);LLMs%2C+Chatbots+%26+Backend+when+needed" alt="Typing SVG" />
-  </a>
+  <img src="animacion-perfil.svg" width="900"
+       alt="David Jr — Sysadmin &amp; Infraestructura @Webdreams. Terminal animada con mi stack." />
 </p>
 
 <!-- Quick stat row -->
