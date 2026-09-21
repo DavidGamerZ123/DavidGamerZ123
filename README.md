@@ -9,128 +9,76 @@
 
 <!-- Quick stat row -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-Espa%C3%B1a-FF6B6B?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/-%E2%9D%A4%EF%B8%8F%20%40Webdreams-1a1b2e?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Available%20for%20projects-4ade80?style=flat-square&logo=protonmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/España-0B0712?style=flat-square&logo=googlemaps&logoColor=B99AB6&labelColor=1A1024" />
+  <img src="https://img.shields.io/badge/@Webdreams-0B0712?style=flat-square&logo=heart&logoColor=E8C878&labelColor=1A1024" />
+  <img src="https://img.shields.io/badge/Disponible_para_proyectos-0B0712?style=flat-square&logo=protonmail&logoColor=9BB585&labelColor=1A1024" />
   <a href="mailto:david.banda.sistemas@gmail.com">
-    <img src="https://img.shields.io/badge/-david.banda.sistemas%40gmail.com-6c63ff?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-E8C878?style=flat-square&logo=gmail&logoColor=0B0712&labelColor=1A1024" />
   </a>
-</p>
-
-<!-- Profile views counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DavidGamerZ123&style=flat-square&color=6C63FF&label=Profile+views" />
-  <img src="https://img.shields.io/github/followers/DavidGamerZ123?style=flat-square&color=6C63FF&logo=github&label=Followers" />
+  <img src="https://komarev.com/ghpvc/?username=DavidGamerZ123&style=flat-square&color=B99AB6&label=Visitas" />
 </p>
 
 ---
 
 ## 🎯 Sobre mí
 
-Soy **administrador de sistemas e infraestructura** en Webdreams ❤️ — esa es mi base. Levanto y mantengo **servidores Linux/Windows**, gestiono **correo corporativo (Zimbra)** con su SPF/DKIM/DMARC, monitorizo con **Grafana y Zabbix**, emito y renuevo **certificados SSL**, hago **hardening** y respondo a incidentes cuando algo arde. Sobre esa base he ido sumando capas: **automatización low-code** con n8n / Make / Zapier, **chatbots y agentes IA** con Flowise + multi-proveedor LLM, **bases de datos** (SQL Server, PostgreSQL) y **desarrollo backend** en varios lenguajes cuando necesito una herramienta a medida.
+Administrador de **sistemas e infraestructura** en Webdreams. Levanto y mantengo servidores
+Linux/Windows, gestiono el **correo corporativo (Zimbra)** con SPF/DKIM/DMARC, monitorizo con
+**Grafana y Zabbix**, renuevo certificados y hago **hardening**.
+
+Sobre esa base voy sumando capas: **automatización low-code**, **agentes IA**, bases de datos
+y **backend a medida** cuando necesito una herramienta que no existe.
 
 > ⚡ Sysadmin de profesión. Dev por necesidad y curiosidad. **Aprendo construyendo, no copiando.**
 
 ---
 
-## 🚀 Stack — de la base (sistemas) hacia arriba
+## 🚀 Stack
 
-#### ⭐ Lo que más uso en el día a día
 <p>
   <img src="https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flowise-7C3AED?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Zabbix-A30013?style=for-the-badge&logo=zabbix&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/-Zimbra-0096D6?style=for-the-badge&logo=zimbra&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Zabbix-A30013?style=for-the-badge&logo=zabbix&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flowise-7C3AED?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
 
----
-
-#### 🖥️ Sistemas e Infraestructura · *mi base*
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Caddy](https://img.shields.io/badge/-Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Let's Encrypt](https://img.shields.io/badge/-Let's%20Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![SSH](https://img.shields.io/badge/-SSH-1A1A1A?style=for-the-badge&logo=openssh&logoColor=white)
-
-#### 📧 Servidores de correo
-![Zimbra](https://img.shields.io/badge/-Zimbra-0096D6?style=for-the-badge&logo=zimbra&logoColor=white)
-![Postfix](https://img.shields.io/badge/-IMAP%20%2F%20SMTP-2D3748?style=for-the-badge&logo=protonmail&logoColor=white)
-![SPF](https://img.shields.io/badge/-SPF%20%E2%80%A2%20DKIM%20%E2%80%A2%20DMARC-EA4B71?style=for-the-badge&logo=maildotru&logoColor=white)
-
-#### 📊 Monitorización &amp; Observabilidad
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Zabbix](https://img.shields.io/badge/-Zabbix-A30013?style=for-the-badge&logo=zabbix&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-#### 🛡️ Seguridad &amp; Hacking ético
-![Kali](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Pentesting](https://img.shields.io/badge/-Pentesting-1a1b2e?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Hardening](https://img.shields.io/badge/-Hardening-7C3AED?style=for-the-badge&logo=shieldsdotio&logoColor=white)
-![2FA TOTP](https://img.shields.io/badge/-2FA%20TOTP-0EA5E9?style=for-the-badge&logo=keepassxc&logoColor=white)
-![Fernet](https://img.shields.io/badge/-Fernet%20%2F%20JWT-D97757?style=for-the-badge&logo=keycdn&logoColor=white)
-
-#### 🗄️ Bases de datos
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-#### ⚙️ Automatización low-code
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/-Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![Webhooks](https://img.shields.io/badge/-Webhooks-2D3748?style=for-the-badge&logo=webhooks&logoColor=white)
-
-#### 🤖 IA, LLMs &amp; Chatbots
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/-Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Mistral](https://img.shields.io/badge/-Mistral-FA520F?style=for-the-badge&logo=mistralai&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Flowise](https://img.shields.io/badge/-Flowise-7C3AED?style=for-the-badge&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-#### 💻 Desarrollo · *cuando hace falta una herramienta a medida*
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+| Área | Herramientas |
+|:--|:--|
+| 🖥️ **Sistemas** · *mi base* | Linux · Windows Server · Docker · Nginx · Caddy · Let's Encrypt · SSH · Bash · PowerShell |
+| 📧 **Correo** | Zimbra · IMAP/SMTP · SPF · DKIM · DMARC |
+| 📊 **Monitorización** | Grafana · Zabbix · Prometheus |
+| 🛡️ **Seguridad** | Hardening · Pentesting · Kali · 2FA TOTP · Fernet · JWT · RBAC · Audit logs |
+| 🗄️ **Datos** | SQL Server · PostgreSQL · SQLite · Redis · Prisma |
+| ⚙️ **Automatización** | n8n · Make · Zapier · Webhooks |
+| 🤖 **IA / LLMs** | OpenAI · Anthropic · Mistral · Flowise · LangChain |
+| 💻 **Desarrollo** | Python · TypeScript · JavaScript · Java · FastAPI · Next.js · React · Tailwind |
 
 ---
 
-## ⚡ Proyectos destacados (en desarrollo activo)
+## ⚡ Proyectos destacados
 
-> Los siguientes proyectos son **privados** (código bajo licencia propietaria). Disponibles bajo NDA o consulta directa.
+> Privados, bajo licencia propietaria. Disponibles bajo NDA o consulta directa.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🟣 Multi-tenant SQL Chat Platform v2
-Plataforma de **chat SQL multi-tenant** con widgets embebibles, 2FA TOTP, RBAC y multi-proveedor IA (OpenAI / Anthropic / Mistral). Validación AST con `sqlglot`, presupuestos mensuales por tenant, audit logs encriptados con Fernet.
+Chat SQL multi-tenant con widgets embebibles, 2FA TOTP, RBAC y multi-proveedor IA. Validación AST y audit logs cifrados.
 
-`FastAPI` · `React` · `SQLite` · `sqlglot` · `Fernet` · `JWT`
+`FastAPI` `React` `sqlglot` `Fernet` `JWT`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🟢 B2B Leads Search Dashboard
-**Dashboard de generación de leads B2B** con scoring por IA. Despliegue self-hosted con Docker Compose y reverse proxy con SSL automático. Integración con SQL Server corporativo y enriquecimiento vía workflows.
+Generación de leads B2B con scoring por IA. Self-hosted con Docker Compose, SSL automático e integración con SQL Server.
 
-`Next.js` · `Prisma` · `Docker` · `Redis` · `Workflows`
+`Next.js` `Prisma` `Docker` `Redis`
 
 </td>
 </tr>
@@ -138,17 +86,17 @@ Plataforma de **chat SQL multi-tenant** con widgets embebibles, 2FA TOTP, RBAC y
 <td width="50%" valign="top">
 
 ### 🟠 Cyber Audit Dashboard
-App de escritorio para sysadmin y seguridad. **Análisis IA con Mistral**, centro unificado de consultas con caché TTL, heurística anti-comandos peligrosos, paleta de comandos y atajos globales.
+Escritorio para sysadmin y seguridad. Análisis IA con Mistral, caché TTL y heurística anti-comandos peligrosos.
 
-`PyQt` · `Mistral` · `Python` · `Click-to-copy`
+`PyQt` `Mistral` `Python`
 
 </td>
 <td width="50%" valign="top">
 
 ### ⏻ ApagarPC
-Utilidad de escritorio Windows para **programar el apagado** con animación circular en Tkinter. Cero dependencias externas. Cancelación segura vía `shutdown /a`.
+Programa el apagado de Windows con animación circular en Tkinter. Cero dependencias externas.
 
-`Python` · `Tkinter` · `Zero deps`
+`Python` `Tkinter` `Zero deps`
 
 </td>
 </tr>
@@ -156,62 +104,39 @@ Utilidad de escritorio Windows para **programar el apagado** con animación circ
 
 ---
 
-## 🤖 Automatizaciones que he construido
+## 🤖 Automatizaciones en producción
 
-Flujos en producción que integran correo corporativo (IMAP/SMTP), SQL Server, webhooks y APIs propias. Self-hosted, sin dependencia de SaaS externos.
+Flujos self-hosted que integran correo corporativo, SQL Server, webhooks y APIs propias.
 
-| Workflow | Trigger | Stack | Función |
-|---|---|---|---|
-| **Email → Database Ingestor** | `IMAP` | `Code` · `SQL Server` · `Switch` | Lee correos entrantes, los normaliza y los persiste en BD con ramificación por tipo de remitente. |
-| **Monthly Report Generator** | `Schedule (cron)` | `SQL Server` · `Code` · `SMTP` | Cada mes consulta la BD, compone el informe en HTML y lo envía por email automáticamente. |
-| **B2B Campaign Orchestrator** | `Schedule` | `HTTP` · `SMTP` · `If` · `SplitOut` | Orquesta campañas B2B: trocea audiencia, dispara HTTP a la app interna, envía emails con lógica condicional. |
-| **Inbound Reply Classifier** | `IMAP` | `HTTP` · `If` · `Code` | Procesa respuestas entrantes de campañas, las clasifica por intención y notifica al sistema vía HTTP. |
-| **Outreach Webhook** | `Webhook` | `SMTP` · `HTTP` · `If` · `RespondToWebhook` | Endpoint webhook que el dashboard llama para disparar emails de outreach con validación previa. |
-
----
-
-## 📚 Formación continua
-
-- 🖥️ **Sistemas e infra self-hosted** — servidores Linux/Windows, Docker Compose, reverse proxy con SSL automático, gestión de certificados
-- 📧 **Correo corporativo** — Zimbra, IMAP/SMTP, SPF/DKIM/DMARC, lucha contra el SPAM
-- 📊 **Monitorización** — dashboards con Grafana, alertas con Zabbix, agregación de logs
-- 🛡️ **Seguridad práctica y hacking ético** — hardening de servidores, pentesting básico, Fernet encryption, 2FA TOTP, RBAC, audit logging
-- ⚙️ **Automatización low-code** — n8n self-hosted, Make scenarios, Zapier multi-step, webhooks
-- 🤖 **IA, LLMs y chatbots** — OpenAI, Anthropic Claude, Mistral, **Flowise** para agentes visuales, function calling
-- 🗄️ **SQL y modelado** — SQL Server, PostgreSQL, validación AST con `sqlglot`, Prisma ORM
+| Workflow | Trigger | Qué hace |
+|:--|:--|:--|
+| **Email → Database Ingestor** | `IMAP` | Normaliza correos entrantes y los persiste con ramificación por remitente |
+| **Monthly Report Generator** | `Cron` | Consulta la BD, compone el informe HTML y lo envía |
+| **B2B Campaign Orchestrator** | `Schedule` | Trocea audiencia, dispara HTTP y envía con lógica condicional |
+| **Inbound Reply Classifier** | `IMAP` | Clasifica respuestas por intención y notifica al sistema |
+| **Outreach Webhook** | `Webhook` | Endpoint que dispara emails de outreach con validación previa |
 
 > Aprendo en abierto: cada proyecto es una excusa para probar una herramienta nueva en serio.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidGamerZ123&show_icons=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=DavidGamerZ123&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=FA520F&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" height="180" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=DavidGamerZ123&hide_border=true&background=0B0712&stroke=B99AB6&ring=E8C878&fire=D4785F&currStreakLabel=E8C878&sideLabels=EDE4D3&dates=B99AB6&currStreakNum=EDE4D3&sideNums=EDE4D3" alt="Racha de contribuciones" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGamerZ123&layout=compact&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" height="180" />
-  <img src="https://github-profile-trophy.vercel.app/?username=DavidGamerZ123&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" height="180" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/DavidGamerZ123&query=public_repos&label=Repos&style=flat-square&color=E8C878&labelColor=1A1024" />
+  <img src="https://img.shields.io/github/followers/DavidGamerZ123?style=flat-square&color=B99AB6&labelColor=1A1024&label=Seguidores" />
 </p>
 
 ---
 
 ## 🤝 Contacto
 
-<p align="left">
-  <a href="mailto:david.banda.sistemas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-david.banda.sistemas%40gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+Para colaboraciones, contratación o licencias de proyectos privados:
 
-<p align="left">
-  Para colaboraciones, contratación o licencias de proyectos privados, escríbeme por email.
-</p>
-
----
-
-<p align="center">
-  <sub>Perfil mantenido con cuidado · Última revisión: 2026-05-27</sub>
-</p>
+<a href="mailto:david.banda.sistemas@gmail.com">
+  <img src="https://img.shields.io/badge/david.banda.sistemas@gmail.com-E8C878?style=for-the-badge&logo=gmail&logoColor=0B0712&labelColor=1A1024" />
+</a>
